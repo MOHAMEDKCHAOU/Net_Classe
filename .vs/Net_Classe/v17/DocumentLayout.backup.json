@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\Net_Classe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|c:\\xampp\\htdocs\\net_classe\\net_classe\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|solutionrelative:net_classe\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|c:\\xampp\\htdocs\\net_classe\\net_classe\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|solutionrelative:net_classe\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|c:\\xampp\\htdocs\\net_classe\\net_classe\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|solutionrelative:net_classe\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|c:\\xampp\\htdocs\\net_classe\\net_classe\\models\\moviecustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|solutionrelative:net_classe\\models\\moviecustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|c:\\xampp\\htdocs\\net_classe\\net_classe\\views\\movie\\movieclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|solutionrelative:net_classe\\views\\movie\\movieclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|c:\\xampp\\htdocs\\net_classe\\net_classe\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|solutionrelative:net_classe\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|c:\\xampp\\htdocs\\net_classe\\net_classe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|solutionrelative:net_classe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|c:\\xampp\\htdocs\\net_classe\\net_classe\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|solutionrelative:net_classe\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|c:\\xampp\\htdocs\\net_classe\\net_classe\\views\\movie\\edit.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|solutionrelative:net_classe\\views\\movie\\edit.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|c:\\xampp\\htdocs\\net_classe\\net_classe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A5B7C6-C110-4206-B27A-3328DEAC8529}|Net_Classe\\Net_Classe.csproj|solutionrelative:net_classe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Views\\movie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Net_Classe\\Views\\movie\\Edit.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Views\\movie\\Edit.cshtml",
+              "RelativeToolTip": "Net_Classe\\Views\\movie\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T14:19:58.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Program.cs",
+              "RelativeDocumentMoniker": "Net_Classe\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Program.cs",
+              "RelativeToolTip": "Net_Classe\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:33:41.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Views\\movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "Net_Classe\\Views\\movie\\Index.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Views\\movie\\Index.cshtml",
+              "RelativeToolTip": "Net_Classe\\Views\\movie\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T12:29:27.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Net_Classe\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Net_Classe\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:24:29.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieCustomerViewModel.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Models\\MovieCustomerViewModel.cs",
+              "RelativeDocumentMoniker": "Net_Classe\\Models\\MovieCustomerViewModel.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Models\\MovieCustomerViewModel.cs",
+              "RelativeToolTip": "Net_Classe\\Models\\MovieCustomerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:06:24.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Net_Classe\\Models\\Movie.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Models\\Movie.cs",
+              "RelativeToolTip": "Net_Classe\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:23:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Net_Classe\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Net_Classe\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:45:26.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieClient.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Views\\movie\\MovieClient.cshtml",
+              "RelativeDocumentMoniker": "Net_Classe\\Views\\movie\\MovieClient.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Views\\movie\\MovieClient.cshtml",
+              "RelativeToolTip": "Net_Classe\\Views\\movie\\MovieClient.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T13:13:13.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Net_Classe\\Models\\Customer.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Models\\Customer.cs",
+              "RelativeToolTip": "Net_Classe\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:05:48.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Views\\movie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Net_Classe\\Views\\movie\\Edit.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\Net_Classe\\Net_Classe\\Views\\movie\\Edit.cshtml",
+              "RelativeToolTip": "Net_Classe\\Views\\movie\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T14:19:06.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

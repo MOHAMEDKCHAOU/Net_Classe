@@ -1,0 +1,12 @@
+﻿@model IEnumerable<Net_Classe.Models.Movie>
+
+<h2>Liste des films</h2>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>
+            <h3>@item.Name</h3>
+        </li>
+    }
+</ul>
